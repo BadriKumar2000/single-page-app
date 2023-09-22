@@ -52,3 +52,6 @@ li {
     font-size: 34px;
   }
 }
+.nav-link {
+  text-decoration: none;
+}
